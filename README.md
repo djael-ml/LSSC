@@ -20,19 +20,19 @@ Libérez de l'espace disque en quelques secondes sur toutes vos partitions !
 **Une seule commande pour tout faire :**
 
 ```bash
-curl -fsSL https://raw.githubusercontent.com/VOTRE_USERNAME/lssc/main/install.sh | sudo bash
+curl -fsSL https://raw.githubusercontent.com/djael-ml/LSSC/main/install.sh | sudo bash
 ```
 
 Ou si vous préférez avec `wget` :
 
 ```bash
-wget -qO- https://raw.githubusercontent.com/VOTRE_USERNAME/lssc/main/install.sh | sudo bash
+wget -qO- https://raw.githubusercontent.com/djael-ml/LSSC/main/install.sh | sudo bash
 ```
 
 **Installation manuelle :**
 
 ```bash
-git clone https://github.com/VOTRE_USERNAME/lssc.git
+git clone https://github.com/djael-ml/LSSC.git
 cd lssc
 chmod +x lssc.sh
 sudo ./lssc.sh
