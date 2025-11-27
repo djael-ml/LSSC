@@ -219,8 +219,8 @@ Si ce projet vous a aidé, n'oubliez pas de lui donner une ⭐ sur GitHub !
 <div align="center">
 
 
-**Fait avec ❤️ pour la communauté Linux**
+**Fait par [Djaël](https://github.com/djael-ml) avec ❤️ pour la communauté Linux**
 
-[Signaler un bug](https://github.com/VOTRE_USERNAME/lssc/issues) • [Documentation](https://github.com/VOTRE_USERNAME/lssc/wiki)
+[Signaler un bug](https://github.com/djael-ml/lssc/issues) • [Documentation](https://github.com/djael(ml/lssc/wiki)
 
 </div>
